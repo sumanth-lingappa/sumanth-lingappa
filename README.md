@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm [Sumanth](https://www.linkedin.com/in/sumanth-lingappa/) 👋
 
 [![Sumanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumanth-lingappa&count_private=true&show_icons=true?theme=cobalt)](https://github.com/sumanth-lingappa)
 
