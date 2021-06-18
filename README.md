@@ -4,9 +4,6 @@
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sumanth-lingappa&layout=compact)](https://github.com/sumanth-lingappa)
 
-[![Sumanth's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sumanth-lingappa)](https://github.com/sumanth-lingappa)
-
-
 
 <!--
 **sumanth-lingappa/sumanth-lingappa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
