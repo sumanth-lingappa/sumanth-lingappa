@@ -1,8 +1,12 @@
 ### Hi there 👋
 
-[![Sumanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumanth-lingappa)](https://github.com/anuraghazra/github-readme-stats&count_private=true&show_icons=true?theme=cobalt)
+[![Sumanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumanth-lingappa&count_private=true&show_icons=true?theme=cobalt)](https://github.com/sumanth-lingappa)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sumanth-lingappa)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sumanth-lingappa&layout=compact)](https://github.com/sumanth-lingappa)
+
+[![Sumanth's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sumanth-lingappa&layout=compact)](https://github.com/sumanth-lingappa)
+
+
 
 <!--
 **sumanth-lingappa/sumanth-lingappa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
