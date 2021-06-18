@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-[![Sumanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumanth-lingappa)](https://github.com/anuraghazra/github-readme-stats)
+[![Sumanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumanth-lingappa)](https://github.com/anuraghazra/github-readme-stats&count_private=true&show_icons=true?theme=cobalt)
 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sumanth-lingappa)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **sumanth-lingappa/sumanth-lingappa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
