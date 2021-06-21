@@ -23,7 +23,12 @@
 ### Coding Stats
 
 <!--START_SECTION:waka-->
-
+```text
+Markdown   31 mins         █████████████████▓░░░░░░░   71.27 % 
+Python     5 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+YAML       3 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 % 
+Text       3 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 % 
+```
 <!--END_SECTION:waka-->
 
 ### GitHub Stats
