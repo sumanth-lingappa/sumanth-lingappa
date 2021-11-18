@@ -28,8 +28,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Terraform   12 mins         █████████████████████░░░░   83.51 % 
-Python      1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
+Python   1 min           ██████████▓░░░░░░░░░░░░░░   42.43 % 
 ```
 <!--END_SECTION:waka-->
 
