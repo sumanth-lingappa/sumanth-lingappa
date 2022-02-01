@@ -24,7 +24,7 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=sumanth-lingappa.sumanth-lingappa)
 
-### Coding Stats
+### Coding Stats (last 7 days)
 
 <!--START_SECTION:waka-->
 ```text
