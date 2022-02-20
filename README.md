@@ -28,8 +28,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-Total: 27 hrs 51 mins
-
 Python      17 hrs 37 mins  ███████████████▒░░░░░░░░░   61.33 % 
 YAML        6 hrs 22 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.18 % 
 Terraform   1 hr 13 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
