@@ -27,13 +27,13 @@
 ### Coding Stats (last 7 days)
 
 <!--START_SECTION:waka-->
+
 ```text
-Python   15 hrs 8 mins   ██████████████████░░░░░░░   71.68 % 
-YAML     3 hrs 47 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.91 % 
-JSON     46 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
-Other    36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
-INI      15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
+Python       9 hrs 40 mins   ████████████████▒░░░░░░░░   65.78 %
+YAML         2 hrs 21 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.04 %
+Other        1 hr 6 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 %
 ```
+
 <!--END_SECTION:waka-->
 
 ### GitHub Stats
