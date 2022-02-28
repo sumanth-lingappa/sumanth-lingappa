@@ -5,6 +5,10 @@
   + [GoLang](https://golang.org/)
 <!-- - 👯 I’m looking to collaborate on -->
 <!-- - 🤔 I’m looking for help with -->
+* Tools I cannot live without - 
+  + vim
+  + vscode
+  + wireshark
 * 💬 Ask me about
   + Anything in Python
   + AWS CloudFormation, Lambda etc.
