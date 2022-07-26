@@ -33,10 +33,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Go           2 hrs 3 mins    ███████████▒░░░░░░░░░░░░░   45.26 %
-Bash         1 hr 33 mins    ████████▓░░░░░░░░░░░░░░░░   34.43 %
-Terraform    34 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.86 %
-Other        10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
