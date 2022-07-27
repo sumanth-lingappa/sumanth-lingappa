@@ -33,7 +33,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Go           3 hrs 47 mins   ███████████████▒░░░░░░░░░   61.54 %
+Bash         1 hr 31 mins    ██████░░░░░░░░░░░░░░░░░░░   24.66 %
+Terraform    33 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.09 %
+JSON         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
+Other        3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
 ```
 
 <!--END_SECTION:waka-->
