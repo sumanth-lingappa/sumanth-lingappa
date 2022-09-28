@@ -11,6 +11,7 @@
   + wireshark
 * 💬 Ask me about
   + Anything in Python
+  + Terraform
   + AWS CloudFormation, Lambda etc.
   + Azure Resource Manager
 * I spend most of my free time
