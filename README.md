@@ -34,12 +34,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Python       1 hr 16 mins    ██████████████▓░░░░░░░░░░   58.19 %
-YAML         45 mins         ████████▓░░░░░░░░░░░░░░░░   34.65 %
-Markdown     7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.65 %
-Go           0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
-Makefile     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
-HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
