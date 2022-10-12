@@ -34,7 +34,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-reStructuredText   0 secs          █████████████████████████   100.00 %
+Bash               18 mins         ████████████████████████▒   96.74 %
+Other              0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 %
 ```
 
 <!--END_SECTION:waka-->
