@@ -34,7 +34,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Go          22 mins         ██████████████████▓░░░░░░   74.50 %
+Terraform   5 mins          ████▓░░░░░░░░░░░░░░░░░░░░   19.07 %
+Markdown    1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.43 %
 ```
 
 <!--END_SECTION:waka-->
