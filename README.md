@@ -34,8 +34,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-JSON         9 mins          ███████████████████████▓░   94.88 %
-Git Config   0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.12 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
