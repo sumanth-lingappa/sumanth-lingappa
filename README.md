@@ -34,7 +34,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+YAML    27 mins         ████████████████████████▓   98.71 %
+Other   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
 ```
 
 <!--END_SECTION:waka-->
