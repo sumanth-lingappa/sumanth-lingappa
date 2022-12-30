@@ -34,12 +34,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Go                 34 mins         ██████████░░░░░░░░░░░░░░░   39.85 %
-Python             25 mins         ███████▒░░░░░░░░░░░░░░░░░   29.67 %
-YAML               16 mins         █████░░░░░░░░░░░░░░░░░░░░   19.86 %
-Text               6 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 %
-Markdown           2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 %
-reStructuredText   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
