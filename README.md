@@ -34,9 +34,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-Terraform    3 hrs 18 mins   ██████████████▓░░░░░░░░░░   59.13 %
-Go           1 hr 5 mins     █████░░░░░░░░░░░░░░░░░░░░   19.53 %
-Other        34 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.37 %
+Terraform    2 hrs 55 mins   ██████████████████▓░░░░░░   75.26 %
+PowerShell   26 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.41 %
+Other        21 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.09 %
 ```
 
 <!--END_SECTION:waka-->
