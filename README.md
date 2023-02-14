@@ -34,9 +34,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Markdown    53 mins         █████████████░░░░░░░░░░░░   51.85 %
-Terraform   47 mins         ███████████▓░░░░░░░░░░░░░   46.11 %
-Other       2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
