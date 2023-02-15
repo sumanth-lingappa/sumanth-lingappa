@@ -34,7 +34,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+YAML        7 mins          ████████████▒░░░░░░░░░░░░   49.77 %
+Markdown    4 mins          ███████▒░░░░░░░░░░░░░░░░░   29.74 %
+Python      1 min           ██▒░░░░░░░░░░░░░░░░░░░░░░   09.79 %
+Terraform   1 min           ██▒░░░░░░░░░░░░░░░░░░░░░░   08.89 %
+Text        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 %
 ```
 
 <!--END_SECTION:waka-->
