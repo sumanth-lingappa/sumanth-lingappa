@@ -33,10 +33,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Bash   4 mins          █████████████▓░░░░░░░░░░░   54.49 %
-YAML   3 mins          █████████▒░░░░░░░░░░░░░░░   37.72 %
-Go     0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.38 %
-Lua    0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
