@@ -33,11 +33,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-YAML         46 mins         ██████████░░░░░░░░░░░░░░░   40.07 %
-Makefile     28 mins         ██████░░░░░░░░░░░░░░░░░░░   24.35 %
-Python       14 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.09 %
-gitrebase    10 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.94 %
-Markdown     10 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
