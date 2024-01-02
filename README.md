@@ -33,7 +33,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+YAML         2 hrs 23 mins   ███████████████████░░░░░░   75.58 %
+Bash         24 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.02 %
+sshconfig    6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 %
+Makefile     4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 %
+Other        3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
 ```
 
 <!--END_SECTION:waka-->
