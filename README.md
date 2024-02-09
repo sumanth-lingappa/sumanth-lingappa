@@ -23,27 +23,3 @@
 <!-- - ⚡ Fun fact: -->
 
 ---
-
-#### Profile Visits
-
-![visitors](https://komarev.com/ghpvc/?username=sumanth-lingappa)
-
-### Coding Stats (last 7 days)
-
-<!--START_SECTION:waka-->
-
-```txt
-Python       11 hrs 56 mins  █████████████▒░░░░░░░░░░░   53.51 %
-YAML         5 hrs 34 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.99 %
-Other        3 hrs 20 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.00 %
-Jinja2       21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
-Markdown     15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
-```
-
-<!--END_SECTION:waka-->
-
-### GitHub Stats
-
-[![Sumanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumanth-lingappa&count_private=true&show_icons=true&theme=cobalt)](https://github.com/sumanth-lingappa)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sumanth-lingappa&layout=compact)](https://github.com/sumanth-lingappa)
