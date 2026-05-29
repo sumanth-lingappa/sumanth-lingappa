@@ -1,17 +1,20 @@
 ### Hello world, I'm [Sumanth](https://www.linkedin.com/in/sumanth-lingappa/) <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-* 🔭 I’m currently working at [Netscaler](https://github.com/netscaler), part of [Cloud Software Group](https://cloud.com) (Professional)
+> Find my latest resume [HERE](https://sumanth-lingappa.github.io/resume/)
+
+* 🔭 I’m currently part of [Citrix Secure Access with Chrome Enterprise](https://www.citrix.com/platform/citrix-secure-access-chrome-enterprise.html) and [Citrix Secure Private Access](https://www.citrix.com/platform/citrix-secure-private-access/), part of [Cloud Software Group](https://cloud.com) (Professional)
 <!-- * 🌱 I’m currently learning -->
  <!-- + [GoLang](https://golang.org/) -->
 <!-- - 👯 I’m looking to collaborate on -->
 <!-- - 🤔 I’m looking for help with -->
 * Tools I cannot live without - 
   + vim
+  + git
 * 💬 Ask me about
   + Anything in Python
   + Ansible
   + Terraform
-  + AWS CloudFormation, Lambda etc.
+  + AWS CloudFormation, Lambda, etc.
   + Azure Resource Manager
 * I spend most of my free time
   + Teaching Python language to university students and software professionals
